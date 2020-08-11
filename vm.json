@@ -1,0 +1,15 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/60da98a7-a16a-493d-b47e-ae703e7660b7/resourceGroups/Nick-lc0820-ps-rg/providers/Microsoft.Compute/virtualMachines/Nick-lc0820-ps-vm",
+  "identity": {
+    "systemAssignedIdentity": "d22aaf49-3184-481a-9a20-d2573eeb06d1",
+    "userAssignedIdentities": {}
+  },
+  "location": "eastus",
+  "macAddress": "00-22-48-1E-97-14",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.4",
+  "publicIpAddress": "40.71.87.225",
+  "resourceGroup": "Nick-lc0820-ps-rg",
+  "zones": ""
+}
